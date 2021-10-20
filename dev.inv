@@ -1,2 +1,2 @@
 [dev]
-172.31.34.192 ansible_user=ec2-user
+35.202.18.168 ansible_user=wordpress1417
